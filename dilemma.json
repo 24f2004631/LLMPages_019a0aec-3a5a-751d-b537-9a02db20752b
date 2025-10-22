@@ -1,0 +1,11 @@
+{
+  "people": 6,
+  "case_1": {
+    "swerve": true,
+    "reason": "In a utilitarian framework, the autonomous vehicle should minimize harm by choosing the option that results in fewer casualties. Hitting 1 person is preferable to hitting 2 people."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "This scenario introduces a moral dilemma based on the perceived 'value' of lives. While an autonomous vehicle's primary directive should ideally be to minimize loss of life regardless of social status, if programmed with specific ethical rules considering vulnerability, a child's life is often weighted higher due to their innocence and potential lifespan. Therefore, swerving to save the child, even if it means hitting criminals, aligns with a protective stance towards the vulnerable. However, programming a vehicle to make judgments about 'criminality' poses significant ethical and legal challenges regarding bias and due process."
+  }
+}
